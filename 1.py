@@ -5,7 +5,7 @@ f(2)
 def buildings(owner, founder):
     print(f'the owner of apple of apple is {owner}. the founder of apple is {founder}')
 
-buildings('Emmanuel', 'David')
+buildings('dave', 'mom')
 
 
 def f(a, add_three_to_a):
